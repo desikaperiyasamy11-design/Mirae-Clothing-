@@ -1,6 +1,7 @@
 # Naan Mudhalvan- Digital Marketing 
 # Project Details 
 • PROJECT TITLE : BUILDING A WEBSITE USING CANVA
+   
    • BRAND : Mirae
    • TARGET : Women
    • PROJECT SITE LINK : https://miraefashion.my.canva.site/
